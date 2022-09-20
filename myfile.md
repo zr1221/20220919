@@ -1,3 +1,4 @@
 ## I am happy
-\n ## I love python
-\n I love China
+## I love python
+##I love China ##I like cats
+##I like dogs
